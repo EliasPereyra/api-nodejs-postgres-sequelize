@@ -8,7 +8,13 @@
     "build": "babel src --out-dir dist",
     "start": "node dist/index.js"
   },
-  "keywords": ["node", "babel", "sequelize", "express", "postgresql"],
+  "keywords": [
+    "node",
+    "babel",
+    "sequelize",
+    "express",
+    "postgresql"
+  ],
   "author": "",
   "license": "ISC",
   "eslintConfig": {
