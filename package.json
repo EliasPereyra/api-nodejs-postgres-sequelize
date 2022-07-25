@@ -11,6 +11,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "eslintConfig": {
+    "extends": "standard"
+  },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "express": "^4.17.1",
@@ -24,6 +27,7 @@
     "@babel/core": "^7.16.0",
     "@babel/node": "^7.16.0",
     "@babel/preset-env": "^7.16.4",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "standard": "^17.0.0"
   }
 }
